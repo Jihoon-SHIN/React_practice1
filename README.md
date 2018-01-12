@@ -1,3 +1,3 @@
 # React_practice1
-# Practice of React
-# To do List
+ Practice of React
+ To do List
